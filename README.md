@@ -1,5 +1,5 @@
 
-# dplyr <a href='https://dplyr.tidyverse.org'><img src='man/figures/logo.png' align="right" height="139" /></a>
+# dplyr <a href='https://dplyr.tidyverse.org'><img src='https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png?raw=true' align="right" height="139" /></a>
 
 <!-- badges: start -->
 
