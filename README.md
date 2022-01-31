@@ -65,7 +65,7 @@ devtools::install_github("tidyverse/dplyr")
 
 ## Usage
 
-```{r, message = FALSE}
+```{r}
 library(dplyr)
 
 starwars %>% 
